@@ -1,0 +1,2 @@
+# ChatGPTCHatCounter
+Ts just sad 💀
